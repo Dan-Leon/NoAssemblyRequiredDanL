@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="txtTitle1">Bicycle</string>
+    <string name="txtTitle2">Dresser</string>
+    <string name="txtTitle3">Wooden Patio</string>
+    <string name="txtSubtitle">Tools Needed</string>
+    <string name="btnText">Tools Needed</string>
+    <string name="img1Descript">Bicycle</string>
+    <string name="img2Descript">Dresser</string>
+    <string name="img3Descript">Wood Patio</string>
+    <string name="txtWrenches">Set of Wrenches</string>
+    <string name="txtSocket">Socket Set</string>
+    <string name="txtPump">Tire Pump</string>
+    <string name="txtAllenKeys">Allen Key Set</string>
+    <string name="txtHammer">Hammer</string>
+    <string name="txtScrewdriver">Screwdriver Set</string>
+    <string name="txtDrill">Drill and Drill Bits</string>
+    <string name="txtScrewdriverBits">Screwdriver Bits</string>
+    <string name="txtLevel">Level</string>
+    <string name="txtRouter">Router and desired design bit</string>
+    <string name="txtSaw">Compound Miter Saw</string>
+    <string name="txtTapeMeasure">Tape Measure</string>
+</resources>
